@@ -23,7 +23,7 @@ Computer Science Student | Full Stack Developer | Java | Python | AI/ML Enthusia
 
   <a href="mailto:VennelaMaddireddi06@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+</a>
 
   <a href="https://github.com/vennelamaddireddi">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
