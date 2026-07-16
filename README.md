@@ -13,7 +13,7 @@ Computer Science Student | Full Stack Developer | Java | Python | AI/ML Enthusia
 
 <!-- BUTTON STYLE LINKS -->
 <p align="center">
-  <a href="https://vennela-maddireddi-portfolio-522ce8.netlify.app">
+  <a href="https://github.com/vennelamaddireddi/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" />
   </a>
 
